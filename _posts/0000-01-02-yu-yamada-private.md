@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "‚Q–‡–Ú‚ÌƒXƒ‰ƒCƒh‚É‚æ‚¤‚±‚»I"
+title: "ï¼’æžšç›®ã®ã‚¹ãƒ©ã‚¤ãƒ‰ã«ã‚ˆã†ã“ã"
 ---
-‰½‚©‚ð‘‚­B
-–ß‚é‚É‚Í–ß‚éƒ{ƒ^ƒ“‚ðŽg‚¢‚Ü‚µ‚å‚¤I
+"ã“ã‚“ã«ã¡ã¯"
